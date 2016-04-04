@@ -1,0 +1,157 @@
+
+#:import AccordionItem kivy.uix.accordion
+
+BoxLayout:
+    orientation: 'vertical'
+
+    BoxLayout:
+        # toolbar
+        orientation: 'horizontal'
+        size_hint_y: None
+        height: 40
+        padding: 2
+        spacing: 2
+        canvas:
+            Color:
+                rgb: 0.9, 0.9, 0.9
+            Rectangle:
+                pos: self.pos
+                size: self.size
+        Button:
+            size_hint_x: None
+            width: 150
+            text: 'Refresh Cameras'
+            border: (2,2,2,2)
+            on_press: app.refreshCameras()
+
+        Button:
+            size_hint_x: None
+            width: 150
+            text: 'Activate All'
+            border: (2,2,2,2)
+            on_press: app.activateAllCameras()
+
+        Button:
+            size_hint_x: None
+            width: 150
+            text: 'Deactivate All'
+            border: (2,2,2,2)
+            on_press: app.deactivateAllCameras()
+
+        Button:
+            size_hint_x: None
+            width: 150
+            text: 'Capture All'
+            border: (2,2,2,2)
+            on_press: app.captureAllCameras()
+
+    BoxLayout:
+        orientation: 'horizontal'
+
+        BoxLayout:
+            orientation: 'vertical'
+            size_hint_x: None
+            width: 600
+
+            Label:
+                text: 'Cameras'
+                font_size: 30
+                size_hint_y: None
+                height: 30
+
+            # this is where the cameras get dynamically added.
+            CameraCollection:
+                id: cameras
+
+        BoxLayout:
+            # right column for large image displays
+            orientation: 'vertical'
+            canvas:
+                Color:
+                    rgb: 0.8, 0.8, 0.9
+                Rectangle:
+                    pos: self.pos
+                    size: self.size
+            BoxLayout:
+                orientation: 'horizontal'
+                padding: (8,8,8,8)
+                spacing: 4
+                Image:
+                    id: image_left_left
+                    source: "camimages/left/left.jpg"
+                Image:
+                    id: image_left_right
+                    source: "camimages/left/right.jpg"
+            BoxLayout:
+                orientation: 'horizontal'
+                padding: (8,8,8,8)
+                spacing: 4
+                Image:
+                    id: image_center_left
+                    source: "camimages/center/left.jpg"
+                Image:
+                    id: image_center_right
+                    source: "camimages/center/right.jpg"
+            BoxLayout:
+                orientation: 'horizontal'
+                padding: (8,8,8,8)
+                spacing: 4
+                Image:
+                    id: image_right_left
+                    source: "camimages/right/left.jpg"
+                Image:
+                    id: image_right_right
+                    source: "camimages/right/right.jpg"
+
+
+
+<CameraItem>:
+    camera_info: camerainfo
+    activate_button: activate_button
+    capture_button: capture_button
+    background_normal: 'images/button_normal.png'
+    background_selected: 'images/button_down.png'
+    border: (2,2,2,2)
+    BoxLayout:
+        orientation: 'vertical'
+        padding: (8,8,8,8)
+        spacing: 10
+        BoxLayout:
+            orientation: 'horizontal'
+            padding: (2,2,2,2)
+            spacing: 4
+            size_hint_y: None
+            height: 40
+
+            Button:
+                id: activate_button
+                size_hint_x: None
+                size_hint_y: None
+                height: 30
+                text: 'Activate'
+
+            Button:
+                id: capture_button
+                size_hint_x: None
+                size_hint_y: None
+                height: 30
+                text: 'Capture'
+
+        Label:
+            id: camerainfo
+            halign: 'left'
+            valign: 'top'
+            text: 'IP:10.0.0.5\nMore Stuff here'
+            text_size: self.size
+
+<CameraCollection>:
+    title: 'Cameras'
+    orientation: 'vertical'
+    size_hint_x: None
+    width: 600
+    canvas:
+        Color:
+            rgb: 0.5, 0.5, 0.5
+        Rectangle:
+            pos: self.pos
+            size: self.size

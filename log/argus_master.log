@@ -1,0 +1,581 @@
+2016-03-17 20:43:24,670 - kivy - DEBUG - Starting download of camimages/left/left.jpg
+2016-03-17 20:43:24,711 - kivy - DEBUG - Finished download!
+2016-03-17 20:43:24,711 - kivy - DEBUG - [Getting file] http://10.0.0.5:8081/getfile?from=master&file=images/slave.jpg
+2016-03-17 20:43:24,725 - kivy - DEBUG - Starting download of camimages/left/right.jpg
+2016-03-17 20:43:24,730 - kivy - DEBUG - Finished download!
+2016-03-17 20:43:24,731 - kivy - DEBUG - [ImageSDL2   ] Load <camimages/left/left.jpg>
+2016-03-17 20:43:24,744 - kivy - DEBUG - [ImageSDL2   ] Load <camimages/left/right.jpg>
+2016-03-17 20:43:24,751 - kivy - DEBUG - [ImageSDL2   ] Load <camimages/center/left.jpg>
+2016-03-17 20:43:24,764 - kivy - DEBUG - [ImageSDL2   ] Load <camimages/center/right.jpg>
+2016-03-17 20:43:24,771 - kivy - DEBUG - [ImageSDL2   ] Load <camimages/right/left.jpg>
+2016-03-17 20:43:24,784 - kivy - DEBUG - [ImageSDL2   ] Load <camimages/right/right.jpg>
+2016-03-17 20:43:35,477 - kivy - DEBUG - [Capture callback] [10.0.0.5] 
+2016-03-17 20:43:35,479 - kivy - DEBUG - [Capture callback] [10.0.0.9] 
+2016-03-17 20:43:35,583 - kivy - DEBUG - [Capture callback] [10.0.0.2] 
+2016-03-17 20:43:35,584 - kivy - DEBUG - Capture 10.0.0.2 complete code 200
+2016-03-17 20:43:35,584 - kivy - INFO - camera center captured
+2016-03-17 20:43:35,584 - kivy - DEBUG - Capture 10.0.0.9 complete code 200
+2016-03-17 20:43:35,585 - kivy - INFO - camera right captured
+2016-03-17 20:43:35,585 - kivy - DEBUG - Capture 10.0.0.5 complete code 200
+2016-03-17 20:43:35,586 - kivy - INFO - camera left captured
+2016-03-17 20:43:35,586 - kivy - DEBUG - [Getting file] http://10.0.0.2:8081/getfile?from=master&file=images/master.jpg
+2016-03-17 20:43:35,603 - kivy - DEBUG - Starting download of camimages/center/left.jpg
+2016-03-17 20:43:35,655 - kivy - DEBUG - Finished download!
+2016-03-17 20:43:35,656 - kivy - DEBUG - [Getting file] http://10.0.0.2:8081/getfile?from=master&file=images/slave.jpg
+2016-03-17 20:43:35,671 - kivy - DEBUG - Starting download of camimages/center/right.jpg
+2016-03-17 20:43:35,680 - kivy - DEBUG - Finished download!
+2016-03-17 20:43:35,680 - kivy - DEBUG - [Getting file] http://10.0.0.9:8081/getfile?from=master&file=images/master.jpg
+2016-03-17 20:43:35,695 - kivy - DEBUG - Starting download of camimages/right/left.jpg
+2016-03-17 20:43:35,747 - kivy - DEBUG - Finished download!
+2016-03-17 20:43:35,747 - kivy - DEBUG - [Getting file] http://10.0.0.9:8081/getfile?from=master&file=images/slave.jpg
+2016-03-17 20:43:35,762 - kivy - DEBUG - Starting download of camimages/right/right.jpg
+2016-03-17 20:43:35,772 - kivy - DEBUG - Finished download!
+2016-03-17 20:43:35,772 - kivy - DEBUG - [Getting file] http://10.0.0.5:8081/getfile?from=master&file=images/master.jpg
+2016-03-17 20:43:35,786 - kivy - DEBUG - Starting download of camimages/left/left.jpg
+2016-03-17 20:43:35,835 - kivy - DEBUG - Finished download!
+2016-03-17 20:43:35,835 - kivy - DEBUG - [Getting file] http://10.0.0.5:8081/getfile?from=master&file=images/slave.jpg
+2016-03-17 20:43:35,850 - kivy - DEBUG - Starting download of camimages/left/right.jpg
+2016-03-17 20:43:35,859 - kivy - DEBUG - Finished download!
+2016-03-17 20:43:35,860 - kivy - DEBUG - [ImageSDL2   ] Load <camimages/left/left.jpg>
+2016-03-17 20:43:35,872 - kivy - DEBUG - [ImageSDL2   ] Load <camimages/left/right.jpg>
+2016-03-17 20:43:35,879 - kivy - DEBUG - [ImageSDL2   ] Load <camimages/center/left.jpg>
+2016-03-17 20:43:35,893 - kivy - DEBUG - [ImageSDL2   ] Load <camimages/center/right.jpg>
+2016-03-17 20:43:35,900 - kivy - DEBUG - [ImageSDL2   ] Load <camimages/right/left.jpg>
+2016-03-17 20:43:35,913 - kivy - DEBUG - [ImageSDL2   ] Load <camimages/right/right.jpg>
+2016-03-17 20:43:53,495 - kivy - DEBUG - [Window      ] Resize window to (2495, 1056)
+2016-03-17 20:43:55,658 - kivy - DEBUG - [Window      ] Resize window to (1631, 911)
+2016-03-17 20:43:58,509 - kivy - DEBUG - [Window      ] Resize window to (1631, 2108)
+2016-03-17 20:43:58,787 - kivy - DEBUG - [Window      ] Resize window to (1631, 2108)
+2016-03-17 20:44:02,971 - kivy - DEBUG - [Window      ] Resize window to (1631, 1028)
+2016-03-17 20:44:04,281 - kivy - DEBUG - [Window      ] Resize window to (1631, 911)
+2016-03-17 20:44:04,850 - kivy - DEBUG - [Window      ] Resize window to (1631, 1028)
+2016-03-17 20:44:47,955 - kivy - INFO - camera center inactive
+2016-03-17 20:44:48,085 - kivy - INFO - camera right inactive
+2016-03-17 20:44:48,219 - kivy - INFO - camera left inactive
+2016-03-17 20:44:48,220 - kivy - DEBUG - [ImageSDL2   ] Load <images/button_normal.png>
+2016-03-17 20:44:48,221 - kivy - DEBUG - [ImageSDL2   ] Load <images/button_down.png>
+2016-03-17 20:44:51,347 - kivy - DEBUG - [Activate callback] [10.0.0.9] {
+  "master": {
+    "status": "active"
+  }, 
+  "slave": {
+    "status": "active"
+  }
+} 
+2016-03-17 20:44:51,350 - kivy - DEBUG - [Activate callback] [10.0.0.2] {
+  "master": {
+    "status": "active"
+  }, 
+  "slave": {
+    "status": "active"
+  }
+} 
+2016-03-17 20:44:51,351 - kivy - INFO - camera center active
+2016-03-17 20:44:51,352 - kivy - DEBUG - [Activate callback] [10.0.0.5] {
+  "master": {
+    "status": "active"
+  }, 
+  "slave": {
+    "status": "active"
+  }
+} 
+2016-03-17 20:44:51,353 - kivy - INFO - camera right active
+2016-03-17 20:44:51,354 - kivy - INFO - camera left active
+2016-03-17 20:44:51,355 - kivy - DEBUG - [ImageSDL2   ] Load <images/active_button_normal.png>
+2016-03-17 20:44:51,356 - kivy - DEBUG - [ImageSDL2   ] Load <images/active_button_down.png>
+2016-03-17 20:44:52,611 - kivy - INFO - [Base        ] Leaving application in progress...
+2016-03-17 20:44:52,611 - kivy - INFO - ArgusMaster Stopping
+2016-03-17 20:44:52,735 - kivy - INFO - camera center inactive
+2016-03-17 20:44:52,865 - kivy - INFO - camera right inactive
+2016-03-17 20:44:53,003 - kivy - INFO - camera left inactive
+2016-03-17 20:44:56,436 - kivy - INFO - ArgusMaster starting
+2016-03-17 20:44:56,437 - kivy - DEBUG - [Base        ] Create provider from mouse
+2016-03-17 20:44:56,437 - kivy - DEBUG - [Base        ] Create provider from probesysfs
+2016-03-17 20:44:56,519 - kivy - DEBUG - [ProbeSysfs  ] using probesysfs!
+2016-03-17 20:44:56,567 - kivy - DEBUG - [ProbeSysfs  ] found device: ETPS/2 Elantech Touchpad at /dev/input/event4
+2016-03-17 20:44:56,567 - kivy - INFO - [ProbeSysfs  ] device match: /dev/input/event4
+2016-03-17 20:44:56,567 - kivy - INFO - [MTD         ] Read event from </dev/input/event4>
+2016-03-17 20:44:56,567 - kivy - INFO - [Base        ] Start application main loop
+2016-03-17 20:44:56,571 - kivy - DEBUG - [Atlas       ] Load </usr/lib/python2.7/dist-packages/kivy/data/../data/images/defaulttheme.atlas>
+2016-03-17 20:44:56,572 - kivy - WARNING - stderr: Exception in thread Thread-1:
+2016-03-17 20:44:56,572 - kivy - DEBUG - [Atlas       ] Need to load 1 images
+2016-03-17 20:44:56,572 - kivy - WARNING - stderr: Traceback (most recent call last):
+2016-03-17 20:44:56,572 - kivy - DEBUG - [Atlas       ] Load </usr/lib/python2.7/dist-packages/kivy/data/../data/images/defaulttheme-0.png>
+2016-03-17 20:44:56,573 - kivy - WARNING - stderr:   File "/usr/lib/python2.7/threading.py", line 810, in __bootstrap_inner
+2016-03-17 20:44:56,573 - kivy - WARNING - stderr:     self.run()
+2016-03-17 20:44:56,573 - kivy - DEBUG - [ImageSDL2   ] Load </usr/lib/python2.7/dist-packages/kivy/data/../data/images/defaulttheme-0.png>
+2016-03-17 20:44:56,573 - kivy - WARNING - stderr:   File "/usr/lib/python2.7/threading.py", line 763, in run
+2016-03-17 20:44:56,578 - kivy - WARNING - stderr:     self.__target(*self.__args, **self.__kwargs)
+2016-03-17 20:44:56,579 - kivy - WARNING - stderr:   File "/usr/lib/python2.7/dist-packages/kivy/input/providers/mtdev.py", line 219, in _thread_run
+2016-03-17 20:44:56,579 - kivy - WARNING - stderr:     _device = Device(_fn)
+2016-03-17 20:44:56,579 - kivy - WARNING - stderr:   File "/usr/lib/python2.7/dist-packages/kivy/lib/mtdev.py", line 131, in __init__
+2016-03-17 20:44:56,579 - kivy - WARNING - stderr:     self._fd = os.open(filename, os.O_NONBLOCK | os.O_RDONLY)
+2016-03-17 20:44:56,579 - kivy - WARNING - stderr: OSError: [Errno 13] Permission denied: '/dev/input/event4'
+2016-03-17 20:44:56,579 - kivy - WARNING - stderr: 
+2016-03-17 20:44:56,664 - kivy - DEBUG - [Window      ] Resize window to (1200, 800)
+2016-03-17 20:45:02,316 - kivy - DEBUG - [Window      ] Resize window to (2495, 1056)
+2016-03-17 20:45:04,576 - kivy - DEBUG - [Window      ] Resize window to (1200, 800)
+2016-03-17 20:45:06,956 - kivy - DEBUG - [Window      ] Resize window to (1200, 884)
+2016-03-17 20:45:07,493 - kivy - DEBUG - [Window      ] Resize window to (1200, 952)
+2016-03-17 20:45:07,826 - kivy - DEBUG - [Window      ] Resize window to (1200, 827)
+2016-03-17 20:45:10,203 - kivy - DEBUG - [Window      ] Resize window to (1591, 931)
+2016-03-17 20:45:10,572 - kivy - DEBUG - [Window      ] Resize window to (1618, 947)
+2016-03-17 20:45:11,105 - kivy - DEBUG - [Window      ] Resize window to (1603, 955)
+2016-03-17 20:45:15,270 - kivy - DEBUG - [Window      ] Resize window to (1618, 996)
+2016-03-17 20:45:15,424 - kivy - DEBUG - [Window      ] Resize window to (1618, 1001)
+2016-03-17 20:45:54,697 - kivy - INFO - Registration Fetch Successful
+2016-03-17 20:45:54,698 - kivy - DEBUG - [{"cameras"  ] [{"ip": "10.0.0.5", "registered": "2016-03-18T03:26:57.023888", "hostname": "left"}, {"ip": "10.0.0.9", "registered": "2016-03-18T03:25:08.179847", "hostname": "right"}, {"ip": "10.0.0.2", "registered": "2016-03-18T03:19:05.309107", "hostname": "center"}]}
+2016-03-17 20:45:54,709 - kivy - DEBUG - [Getting camera info] http://10.0.0.5:8081/
+2016-03-17 20:45:54,724 - kivy - DEBUG - [{"uptime"   ] "0:20:08.019993", "name": "Argus3 Camserver", "copyright": "Glyphstone Productions (c)2016", "started": "2016-03-08T05:17:56.755984", "registered_as": "left", "slave_ver": "1.0.7", "version": "1.1.30", "registered_on": "2016-03-18T03:26:57.023888", "slave_ver_match": true, "slave_init": true, "registered": true}
+2016-03-17 20:45:54,725 - kivy - DEBUG - Camera left added
+2016-03-17 20:45:54,730 - kivy - DEBUG - [Getting camera info] http://10.0.0.9:8081/
+2016-03-17 20:45:54,745 - kivy - DEBUG - [{"uptime"   ] "0:20:46.715195", "name": "Argus3 Camserver", "copyright": "Glyphstone Productions (c)2016", "started": "2016-03-08T05:17:34.158571", "registered_as": "right", "slave_ver": "1.0.7", "version": "1.1.30", "registered_on": "2016-03-18T03:25:08.179847", "slave_ver_match": true, "slave_init": true, "registered": true}
+2016-03-17 20:45:54,745 - kivy - DEBUG - Camera right added
+2016-03-17 20:45:54,750 - kivy - DEBUG - [Getting camera info] http://10.0.0.2:8081/
+2016-03-17 20:45:54,764 - kivy - DEBUG - [{"uptime"   ] "0:26:49.569115", "name": "Argus3 Camserver", "copyright": "Glyphstone Productions (c)2016", "started": "2016-03-18T03:19:04.788099", "registered_as": "center", "slave_ver": "1.0.7", "version": "1.1.30", "registered_on": "2016-03-18T03:19:05.309107", "slave_ver_match": true, "slave_init": true, "registered": true}
+2016-03-17 20:45:54,764 - kivy - DEBUG - Camera center added
+2016-03-17 20:45:54,774 - kivy - DEBUG - [ImageSDL2   ] Load <images/button_down.png>
+2016-03-17 20:45:54,775 - kivy - DEBUG - [ImageSDL2   ] Load <images/button_normal.png>
+2016-03-17 20:45:59,040 - kivy - INFO - camera center active
+2016-03-17 20:45:59,041 - kivy - DEBUG - [ImageSDL2   ] Load <images/active_button_down.png>
+2016-03-17 20:46:01,230 - kivy - DEBUG - Start Capture for center
+2016-03-17 20:46:01,230 - kivy - DEBUG - [GET http    ]//10.0.0.2:8081/camera/capture
+2016-03-17 20:46:03,303 - kivy - DEBUG - Capture response
+2016-03-17 20:46:03,304 - kivy - DEBUG - Capture Success
+2016-03-17 20:46:03,305 - kivy - INFO - camera center captured
+2016-03-17 20:46:03,305 - kivy - DEBUG - [Getting file] http://10.0.0.2:8081/getfile?from=master&file=images/master.jpg
+2016-03-17 20:46:03,322 - kivy - DEBUG - Starting download of camimages/center/left.jpg
+2016-03-17 20:46:03,376 - kivy - DEBUG - Finished download!
+2016-03-17 20:46:03,377 - kivy - DEBUG - [Getting file] http://10.0.0.2:8081/getfile?from=master&file=images/slave.jpg
+2016-03-17 20:46:03,393 - kivy - DEBUG - Starting download of camimages/center/right.jpg
+2016-03-17 20:46:03,401 - kivy - DEBUG - Finished download!
+2016-03-17 20:46:05,616 - kivy - INFO - [Base        ] Leaving application in progress...
+2016-03-17 20:46:05,617 - kivy - INFO - ArgusMaster Stopping
+2016-03-17 20:46:05,749 - kivy - INFO - camera center inactive
+2016-03-17 20:46:05,778 - kivy - INFO - camera right inactive
+2016-03-17 20:46:05,807 - kivy - INFO - camera left inactive
+2016-03-17 20:56:24,762 - kivy - INFO - ArgusMaster starting
+2016-03-17 20:56:24,762 - kivy - DEBUG - [Base        ] Create provider from mouse
+2016-03-17 20:56:24,763 - kivy - DEBUG - [Base        ] Create provider from probesysfs
+2016-03-17 20:56:24,847 - kivy - DEBUG - [ProbeSysfs  ] using probesysfs!
+2016-03-17 20:56:24,897 - kivy - DEBUG - [ProbeSysfs  ] found device: ETPS/2 Elantech Touchpad at /dev/input/event4
+2016-03-17 20:56:24,897 - kivy - INFO - [ProbeSysfs  ] device match: /dev/input/event4
+2016-03-17 20:56:24,897 - kivy - INFO - [MTD         ] Read event from </dev/input/event4>
+2016-03-17 20:56:24,897 - kivy - INFO - [Base        ] Start application main loop
+2016-03-17 20:56:24,901 - kivy - DEBUG - [Atlas       ] Load </usr/lib/python2.7/dist-packages/kivy/data/../data/images/defaulttheme.atlas>
+2016-03-17 20:56:24,902 - kivy - DEBUG - [Atlas       ] Need to load 1 images
+2016-03-17 20:56:24,902 - kivy - DEBUG - [Atlas       ] Load </usr/lib/python2.7/dist-packages/kivy/data/../data/images/defaulttheme-0.png>
+2016-03-17 20:56:24,902 - kivy - WARNING - stderr: Exception in thread Thread-1:
+2016-03-17 20:56:24,902 - kivy - DEBUG - [ImageSDL2   ] Load </usr/lib/python2.7/dist-packages/kivy/data/../data/images/defaulttheme-0.png>
+2016-03-17 20:56:24,902 - kivy - WARNING - stderr: Traceback (most recent call last):
+2016-03-17 20:56:24,908 - kivy - WARNING - stderr:   File "/usr/lib/python2.7/threading.py", line 810, in __bootstrap_inner
+2016-03-17 20:56:24,908 - kivy - WARNING - stderr:     self.run()
+2016-03-17 20:56:24,908 - kivy - WARNING - stderr:   File "/usr/lib/python2.7/threading.py", line 763, in run
+2016-03-17 20:56:24,908 - kivy - WARNING - stderr:     self.__target(*self.__args, **self.__kwargs)
+2016-03-17 20:56:24,908 - kivy - WARNING - stderr:   File "/usr/lib/python2.7/dist-packages/kivy/input/providers/mtdev.py", line 219, in _thread_run
+2016-03-17 20:56:24,909 - kivy - WARNING - stderr:     _device = Device(_fn)
+2016-03-17 20:56:24,909 - kivy - WARNING - stderr:   File "/usr/lib/python2.7/dist-packages/kivy/lib/mtdev.py", line 131, in __init__
+2016-03-17 20:56:24,913 - kivy - WARNING - stderr:     self._fd = os.open(filename, os.O_NONBLOCK | os.O_RDONLY)
+2016-03-17 20:56:24,913 - kivy - WARNING - stderr: OSError: [Errno 13] Permission denied: '/dev/input/event4'
+2016-03-17 20:56:24,919 - kivy - WARNING - stderr: 
+2016-03-17 20:56:24,994 - kivy - DEBUG - [Window      ] Resize window to (1200, 800)
+2016-03-17 20:56:26,067 - kivy - INFO - Registration Fetch Successful
+2016-03-17 20:56:26,067 - kivy - DEBUG - [{"cameras"  ] [{"ip": "10.0.0.5", "registered": "2016-03-18T03:26:57.023888", "hostname": "left"}, {"ip": "10.0.0.9", "registered": "2016-03-18T03:25:08.179847", "hostname": "right"}, {"ip": "10.0.0.2", "registered": "2016-03-18T03:19:05.309107", "hostname": "center"}]}
+2016-03-17 20:56:26,071 - kivy - DEBUG - [Getting camera info] http://10.0.0.5:8081/
+2016-03-17 20:56:26,085 - kivy - DEBUG - [{"uptime"   ] "0:30:39.385240", "name": "Argus3 Camserver", "copyright": "Glyphstone Productions (c)2016", "started": "2016-03-08T05:17:56.755984", "registered_as": "left", "slave_ver": "1.0.7", "version": "1.1.30", "registered_on": "2016-03-18T03:26:57.023888", "slave_ver_match": true, "slave_init": true, "registered": true}
+2016-03-17 20:56:26,085 - kivy - DEBUG - Camera left added
+2016-03-17 20:56:26,088 - kivy - DEBUG - [Getting camera info] http://10.0.0.9:8081/
+2016-03-17 20:56:26,102 - kivy - DEBUG - [{"uptime"   ] "0:31:18.072360", "name": "Argus3 Camserver", "copyright": "Glyphstone Productions (c)2016", "started": "2016-03-08T05:17:34.158571", "registered_as": "right", "slave_ver": "1.0.7", "version": "1.1.30", "registered_on": "2016-03-18T03:25:08.179847", "slave_ver_match": true, "slave_init": true, "registered": true}
+2016-03-17 20:56:26,102 - kivy - DEBUG - Camera right added
+2016-03-17 20:56:26,105 - kivy - DEBUG - [Getting camera info] http://10.0.0.2:8081/
+2016-03-17 20:56:26,119 - kivy - DEBUG - [{"uptime"   ] "0:37:20.958043", "name": "Argus3 Camserver", "copyright": "Glyphstone Productions (c)2016", "started": "2016-03-18T03:19:04.788099", "registered_as": "center", "slave_ver": "1.0.7", "version": "1.1.30", "registered_on": "2016-03-18T03:19:05.309107", "slave_ver_match": true, "slave_init": true, "registered": true}
+2016-03-17 20:56:26,120 - kivy - DEBUG - Camera center added
+2016-03-17 20:56:26,126 - kivy - DEBUG - [ImageSDL2   ] Load <images/button_normal.png>
+2016-03-17 20:56:26,127 - kivy - DEBUG - [ImageSDL2   ] Load <images/button_down.png>
+2016-03-17 20:56:28,246 - kivy - DEBUG - [Activate callback] [10.0.0.9] {
+  "master": {
+    "status": "active"
+  }, 
+  "slave": {
+    "status": "active"
+  }
+} 
+2016-03-17 20:56:28,251 - kivy - DEBUG - [Activate callback] [10.0.0.5] {
+  "master": {
+    "status": "active"
+  }, 
+  "slave": {
+    "status": "active"
+  }
+} 
+2016-03-17 20:56:28,262 - kivy - DEBUG - [Activate callback] [10.0.0.2] {
+  "master": {
+    "status": "active"
+  }, 
+  "slave": {
+    "status": "active"
+  }
+} 
+2016-03-17 20:56:28,262 - kivy - INFO - camera center active
+2016-03-17 20:56:28,263 - kivy - INFO - camera right active
+2016-03-17 20:56:28,263 - kivy - INFO - camera left active
+2016-03-17 20:56:28,263 - kivy - DEBUG - [ImageSDL2   ] Load <images/active_button_normal.png>
+2016-03-17 20:56:28,263 - kivy - DEBUG - [ImageSDL2   ] Load <images/active_button_down.png>
+2016-03-17 20:56:36,412 - kivy - DEBUG - Start Capture for center
+2016-03-17 20:56:36,412 - kivy - DEBUG - [GET http    ]//10.0.0.2:8081/camera/capture
+2016-03-17 20:56:38,447 - kivy - DEBUG - Capture response
+2016-03-17 20:56:38,448 - kivy - DEBUG - Capture Success
+2016-03-17 20:56:38,448 - kivy - INFO - camera center captured
+2016-03-17 20:56:38,449 - kivy - DEBUG - [Getting file] http://10.0.0.2:8081/getfile?from=master&file=images/master.jpg
+2016-03-17 20:56:38,466 - kivy - DEBUG - Starting download of camimages/center/left.jpg
+2016-03-17 20:56:38,519 - kivy - DEBUG - Finished download!
+2016-03-17 20:56:38,520 - kivy - DEBUG - [Getting file] http://10.0.0.2:8081/getfile?from=master&file=images/slave.jpg
+2016-03-17 20:56:38,536 - kivy - DEBUG - Starting download of camimages/center/right.jpg
+2016-03-17 20:56:38,545 - kivy - DEBUG - Finished download!
+2016-03-17 20:56:38,545 - kivy - DEBUG - [ImageSDL2   ] Load <camimages/center/left.jpg>
+2016-03-17 20:56:38,565 - kivy - DEBUG - [ImageSDL2   ] Load <camimages/center/right.jpg>
+2016-03-17 20:56:42,330 - kivy - DEBUG - Start Capture for right
+2016-03-17 20:56:42,330 - kivy - DEBUG - [GET http    ]//10.0.0.9:8081/camera/capture
+2016-03-17 20:56:44,314 - kivy - DEBUG - Capture response
+2016-03-17 20:56:44,314 - kivy - DEBUG - Capture Success
+2016-03-17 20:56:44,315 - kivy - INFO - camera right captured
+2016-03-17 20:56:44,315 - kivy - DEBUG - [Getting file] http://10.0.0.9:8081/getfile?from=master&file=images/master.jpg
+2016-03-17 20:56:44,332 - kivy - DEBUG - Starting download of camimages/right/left.jpg
+2016-03-17 20:56:44,383 - kivy - DEBUG - Finished download!
+2016-03-17 20:56:44,383 - kivy - DEBUG - [Getting file] http://10.0.0.9:8081/getfile?from=master&file=images/slave.jpg
+2016-03-17 20:56:44,399 - kivy - DEBUG - Starting download of camimages/right/right.jpg
+2016-03-17 20:56:44,408 - kivy - DEBUG - Finished download!
+2016-03-17 20:56:44,408 - kivy - DEBUG - [ImageSDL2   ] Load <camimages/right/left.jpg>
+2016-03-17 20:56:44,424 - kivy - DEBUG - [ImageSDL2   ] Load <camimages/right/right.jpg>
+2016-03-17 20:56:48,783 - kivy - DEBUG - Start Capture for left
+2016-03-17 20:56:48,783 - kivy - DEBUG - [GET http    ]//10.0.0.5:8081/camera/capture
+2016-03-17 20:56:50,725 - kivy - DEBUG - Capture response
+2016-03-17 20:56:50,726 - kivy - DEBUG - Capture Success
+2016-03-17 20:56:50,726 - kivy - INFO - camera left captured
+2016-03-17 20:56:50,726 - kivy - DEBUG - [Getting file] http://10.0.0.5:8081/getfile?from=master&file=images/master.jpg
+2016-03-17 20:56:50,744 - kivy - DEBUG - Starting download of camimages/left/left.jpg
+2016-03-17 20:56:50,795 - kivy - DEBUG - Finished download!
+2016-03-17 20:56:50,796 - kivy - DEBUG - [Getting file] http://10.0.0.5:8081/getfile?from=master&file=images/slave.jpg
+2016-03-17 20:56:50,812 - kivy - DEBUG - Starting download of camimages/left/right.jpg
+2016-03-17 20:56:50,821 - kivy - DEBUG - Finished download!
+2016-03-17 20:56:50,821 - kivy - DEBUG - [ImageSDL2   ] Load <camimages/left/left.jpg>
+2016-03-17 20:56:50,850 - kivy - DEBUG - [ImageSDL2   ] Load <camimages/left/right.jpg>
+2016-03-17 20:57:08,146 - kivy - DEBUG - Start Capture for center
+2016-03-17 20:57:08,146 - kivy - DEBUG - [GET http    ]//10.0.0.2:8081/camera/capture
+2016-03-17 20:57:10,127 - kivy - DEBUG - Capture response
+2016-03-17 20:57:10,127 - kivy - DEBUG - Capture Success
+2016-03-17 20:57:10,127 - kivy - INFO - camera center captured
+2016-03-17 20:57:10,127 - kivy - DEBUG - [Getting file] http://10.0.0.2:8081/getfile?from=master&file=images/master.jpg
+2016-03-17 20:57:10,143 - kivy - DEBUG - Starting download of camimages/center/left.jpg
+2016-03-17 20:57:10,196 - kivy - DEBUG - Finished download!
+2016-03-17 20:57:10,196 - kivy - DEBUG - [Getting file] http://10.0.0.2:8081/getfile?from=master&file=images/slave.jpg
+2016-03-17 20:57:10,211 - kivy - DEBUG - Starting download of camimages/center/right.jpg
+2016-03-17 20:57:10,220 - kivy - DEBUG - Finished download!
+2016-03-17 20:57:10,220 - kivy - DEBUG - [ImageSDL2   ] Load <camimages/center/left.jpg>
+2016-03-17 20:57:10,238 - kivy - DEBUG - [ImageSDL2   ] Load <camimages/center/right.jpg>
+2016-03-17 20:57:52,767 - kivy - DEBUG - [Window      ] Resize window to (1200, 877)
+2016-03-17 20:57:54,485 - kivy - DEBUG - [Window      ] Resize window to (1409, 877)
+2016-03-17 20:58:36,508 - kivy - INFO - camera center inactive
+2016-03-17 20:58:36,631 - kivy - INFO - camera right inactive
+2016-03-17 20:58:36,768 - kivy - INFO - camera left inactive
+2016-03-17 20:58:36,769 - kivy - DEBUG - [ImageSDL2   ] Load <images/button_normal.png>
+2016-03-17 20:58:36,770 - kivy - DEBUG - [ImageSDL2   ] Load <images/button_down.png>
+2016-03-17 21:03:01,809 - kivy - INFO - [Base        ] Leaving application in progress...
+2016-03-17 21:03:01,809 - kivy - INFO - ArgusMaster Stopping
+2016-03-17 21:03:01,842 - kivy - INFO - camera center inactive
+2016-03-17 21:03:01,870 - kivy - INFO - camera right inactive
+2016-03-17 21:03:01,899 - kivy - INFO - camera left inactive
+2016-03-17 21:13:17,871 - kivy - INFO - ArgusMaster starting
+2016-03-17 21:13:17,871 - kivy - DEBUG - [Base        ] Create provider from mouse
+2016-03-17 21:13:17,871 - kivy - DEBUG - [Base        ] Create provider from probesysfs
+2016-03-17 21:13:17,966 - kivy - DEBUG - [ProbeSysfs  ] using probesysfs!
+2016-03-17 21:13:18,030 - kivy - DEBUG - [ProbeSysfs  ] found device: ETPS/2 Elantech Touchpad at /dev/input/event4
+2016-03-17 21:13:18,030 - kivy - INFO - [ProbeSysfs  ] device match: /dev/input/event4
+2016-03-17 21:13:18,031 - kivy - INFO - [MTD         ] Read event from </dev/input/event4>
+2016-03-17 21:13:18,031 - kivy - INFO - [Base        ] Start application main loop
+2016-03-17 21:13:18,034 - kivy - DEBUG - [Atlas       ] Load </usr/lib/python2.7/dist-packages/kivy/data/../data/images/defaulttheme.atlas>
+2016-03-17 21:13:18,034 - kivy - WARNING - stderr: Exception in thread Thread-1:
+2016-03-17 21:13:18,035 - kivy - WARNING - stderr: Traceback (most recent call last):
+2016-03-17 21:13:18,035 - kivy - DEBUG - [Atlas       ] Need to load 1 images
+2016-03-17 21:13:18,035 - kivy - WARNING - stderr:   File "/usr/lib/python2.7/threading.py", line 810, in __bootstrap_inner
+2016-03-17 21:13:18,035 - kivy - DEBUG - [Atlas       ] Load </usr/lib/python2.7/dist-packages/kivy/data/../data/images/defaulttheme-0.png>
+2016-03-17 21:13:18,035 - kivy - WARNING - stderr:     self.run()
+2016-03-17 21:13:18,035 - kivy - DEBUG - [ImageSDL2   ] Load </usr/lib/python2.7/dist-packages/kivy/data/../data/images/defaulttheme-0.png>
+2016-03-17 21:13:18,035 - kivy - WARNING - stderr:   File "/usr/lib/python2.7/threading.py", line 763, in run
+2016-03-17 21:13:18,041 - kivy - WARNING - stderr:     self.__target(*self.__args, **self.__kwargs)
+2016-03-17 21:13:18,041 - kivy - WARNING - stderr:   File "/usr/lib/python2.7/dist-packages/kivy/input/providers/mtdev.py", line 219, in _thread_run
+2016-03-17 21:13:18,041 - kivy - WARNING - stderr:     _device = Device(_fn)
+2016-03-17 21:13:18,041 - kivy - WARNING - stderr:   File "/usr/lib/python2.7/dist-packages/kivy/lib/mtdev.py", line 131, in __init__
+2016-03-17 21:13:18,041 - kivy - WARNING - stderr:     self._fd = os.open(filename, os.O_NONBLOCK | os.O_RDONLY)
+2016-03-17 21:13:18,041 - kivy - WARNING - stderr: OSError: [Errno 13] Permission denied: '/dev/input/event4'
+2016-03-17 21:13:18,041 - kivy - WARNING - stderr: 
+2016-03-17 21:13:18,128 - kivy - DEBUG - [Window      ] Resize window to (1200, 800)
+2016-03-17 21:13:19,486 - kivy - INFO - Registration Fetch Successful
+2016-03-17 21:13:19,487 - kivy - DEBUG - [{"cameras"  ] [{"ip": "10.0.0.5", "registered": "2016-03-18T03:26:57.023888", "hostname": "left"}, {"ip": "10.0.0.9", "registered": "2016-03-18T03:25:08.179847", "hostname": "right"}, {"ip": "10.0.0.2", "registered": "2016-03-18T03:19:05.309107", "hostname": "center"}]}
+2016-03-17 21:13:19,490 - kivy - DEBUG - [Getting camera info] http://10.0.0.5:8081/
+2016-03-17 21:13:19,505 - kivy - DEBUG - [{"uptime"   ] "0:47:32.812742", "name": "Argus3 Camserver", "copyright": "Glyphstone Productions (c)2016", "started": "2016-03-08T05:17:56.755984", "registered_as": "left", "slave_ver": "1.0.7", "version": "1.1.30", "registered_on": "2016-03-18T03:26:57.023888", "slave_ver_match": true, "slave_init": true, "registered": true}
+2016-03-17 21:13:19,505 - kivy - DEBUG - Camera left added
+2016-03-17 21:13:19,508 - kivy - DEBUG - [Getting camera info] http://10.0.0.9:8081/
+2016-03-17 21:13:19,522 - kivy - DEBUG - [{"uptime"   ] "0:48:11.492857", "name": "Argus3 Camserver", "copyright": "Glyphstone Productions (c)2016", "started": "2016-03-08T05:17:34.158571", "registered_as": "right", "slave_ver": "1.0.7", "version": "1.1.30", "registered_on": "2016-03-18T03:25:08.179847", "slave_ver_match": true, "slave_init": true, "registered": true}
+2016-03-17 21:13:19,522 - kivy - DEBUG - Camera right added
+2016-03-17 21:13:19,525 - kivy - DEBUG - [Getting camera info] http://10.0.0.2:8081/
+2016-03-17 21:13:19,541 - kivy - DEBUG - [{"uptime"   ] "0:54:14.377285", "name": "Argus3 Camserver", "copyright": "Glyphstone Productions (c)2016", "started": "2016-03-18T03:19:04.788099", "registered_as": "center", "slave_ver": "1.0.7", "version": "1.1.30", "registered_on": "2016-03-18T03:19:05.309107", "slave_ver_match": true, "slave_init": true, "registered": true}
+2016-03-17 21:13:19,541 - kivy - DEBUG - Camera center added
+2016-03-17 21:13:19,548 - kivy - DEBUG - [ImageSDL2   ] Load <images/button_normal.png>
+2016-03-17 21:13:19,548 - kivy - DEBUG - [ImageSDL2   ] Load <images/button_down.png>
+2016-03-17 21:13:21,390 - kivy - DEBUG - [Activate callback] [10.0.0.9] {
+  "master": {
+    "status": "active"
+  }, 
+  "slave": {
+    "status": "active"
+  }
+} 
+2016-03-17 21:13:21,394 - kivy - DEBUG - [Activate callback] [10.0.0.5] {
+  "master": {
+    "status": "active"
+  }, 
+  "slave": {
+    "status": "active"
+  }
+} 
+2016-03-17 21:13:21,398 - kivy - DEBUG - [Activate callback] [10.0.0.2] {
+  "master": {
+    "status": "active"
+  }, 
+  "slave": {
+    "status": "active"
+  }
+} 
+2016-03-17 21:13:21,399 - kivy - INFO - camera center active
+2016-03-17 21:13:21,399 - kivy - INFO - camera right active
+2016-03-17 21:13:21,399 - kivy - INFO - camera left active
+2016-03-17 21:13:21,400 - kivy - DEBUG - [ImageSDL2   ] Load <images/active_button_normal.png>
+2016-03-17 21:13:21,400 - kivy - DEBUG - [ImageSDL2   ] Load <images/active_button_down.png>
+2016-03-17 21:13:31,142 - kivy - DEBUG - [Capture callback] [10.0.0.5] 
+2016-03-17 21:13:31,167 - kivy - DEBUG - [Capture callback] [10.0.0.9] 
+2016-03-17 21:13:31,269 - kivy - DEBUG - [Capture callback] [10.0.0.2] 
+2016-03-17 21:13:31,270 - kivy - DEBUG - Capture 10.0.0.2 complete code 200
+2016-03-17 21:13:31,270 - kivy - INFO - camera center captured
+2016-03-17 21:13:31,271 - kivy - DEBUG - Capture 10.0.0.9 complete code 200
+2016-03-17 21:13:31,271 - kivy - INFO - camera right captured
+2016-03-17 21:13:31,271 - kivy - DEBUG - Capture 10.0.0.5 complete code 200
+2016-03-17 21:13:31,272 - kivy - INFO - camera left captured
+2016-03-17 21:13:31,272 - kivy - DEBUG - [Getting file] http://10.0.0.2:8081/getfile?from=master&file=images/master.jpg
+2016-03-17 21:13:31,289 - kivy - DEBUG - Starting download of camimages/center/left.jpg
+2016-03-17 21:13:31,340 - kivy - DEBUG - Finished download!
+2016-03-17 21:13:31,340 - kivy - DEBUG - [Getting file] http://10.0.0.2:8081/getfile?from=master&file=images/slave.jpg
+2016-03-17 21:13:31,357 - kivy - DEBUG - Starting download of camimages/center/right.jpg
+2016-03-17 21:13:31,361 - kivy - DEBUG - Finished download!
+2016-03-17 21:13:31,362 - kivy - DEBUG - [Getting file] http://10.0.0.9:8081/getfile?from=master&file=images/master.jpg
+2016-03-17 21:13:31,376 - kivy - DEBUG - Starting download of camimages/right/left.jpg
+2016-03-17 21:13:31,424 - kivy - DEBUG - Finished download!
+2016-03-17 21:13:31,425 - kivy - DEBUG - [Getting file] http://10.0.0.9:8081/getfile?from=master&file=images/slave.jpg
+2016-03-17 21:13:31,440 - kivy - DEBUG - Starting download of camimages/right/right.jpg
+2016-03-17 21:13:31,448 - kivy - DEBUG - Finished download!
+2016-03-17 21:13:31,448 - kivy - DEBUG - [Getting file] http://10.0.0.5:8081/getfile?from=master&file=images/master.jpg
+2016-03-17 21:13:31,463 - kivy - DEBUG - Starting download of camimages/left/left.jpg
+2016-03-17 21:13:31,514 - kivy - DEBUG - Finished download!
+2016-03-17 21:13:31,514 - kivy - DEBUG - [Getting file] http://10.0.0.5:8081/getfile?from=master&file=images/slave.jpg
+2016-03-17 21:13:31,530 - kivy - DEBUG - Starting download of camimages/left/right.jpg
+2016-03-17 21:13:31,538 - kivy - DEBUG - Finished download!
+2016-03-17 21:13:31,538 - kivy - DEBUG - [ImageSDL2   ] Load <camimages/left/left.jpg>
+2016-03-17 21:13:31,566 - kivy - DEBUG - [ImageSDL2   ] Load <camimages/left/right.jpg>
+2016-03-17 21:13:31,577 - kivy - DEBUG - [ImageSDL2   ] Load <camimages/center/left.jpg>
+2016-03-17 21:13:31,593 - kivy - DEBUG - [ImageSDL2   ] Load <camimages/center/right.jpg>
+2016-03-17 21:13:31,603 - kivy - DEBUG - [ImageSDL2   ] Load <camimages/right/left.jpg>
+2016-03-17 21:13:31,618 - kivy - DEBUG - [ImageSDL2   ] Load <camimages/right/right.jpg>
+2016-03-17 21:13:39,442 - kivy - DEBUG - [Window      ] Resize window to (1710, 906)
+2016-03-17 21:13:40,762 - kivy - DEBUG - [Window      ] Resize window to (1695, 948)
+2016-03-17 21:13:40,930 - kivy - DEBUG - [Window      ] Resize window to (1693, 955)
+2016-03-17 21:14:28,015 - kivy - INFO - camera center inactive
+2016-03-17 21:14:28,140 - kivy - INFO - camera right inactive
+2016-03-17 21:14:28,278 - kivy - INFO - camera left inactive
+2016-03-17 21:14:28,279 - kivy - DEBUG - [ImageSDL2   ] Load <images/button_normal.png>
+2016-03-17 21:14:28,279 - kivy - DEBUG - [ImageSDL2   ] Load <images/button_down.png>
+2016-03-17 21:15:02,311 - kivy - INFO - [Base        ] Leaving application in progress...
+2016-03-17 21:15:02,312 - kivy - INFO - ArgusMaster Stopping
+2016-03-17 21:15:02,345 - kivy - INFO - camera center inactive
+2016-03-17 21:15:02,375 - kivy - INFO - camera right inactive
+2016-03-17 21:15:02,404 - kivy - INFO - camera left inactive
+2016-03-17 21:17:43,495 - kivy - INFO - ArgusMaster starting
+2016-03-17 21:17:43,495 - kivy - DEBUG - [Base        ] Create provider from mouse
+2016-03-17 21:17:43,495 - kivy - DEBUG - [Base        ] Create provider from probesysfs
+2016-03-17 21:17:43,573 - kivy - DEBUG - [ProbeSysfs  ] using probesysfs!
+2016-03-17 21:17:43,626 - kivy - DEBUG - [ProbeSysfs  ] found device: ETPS/2 Elantech Touchpad at /dev/input/event4
+2016-03-17 21:17:43,626 - kivy - INFO - [ProbeSysfs  ] device match: /dev/input/event4
+2016-03-17 21:17:43,626 - kivy - INFO - [MTD         ] Read event from </dev/input/event4>
+2016-03-17 21:17:43,626 - kivy - INFO - [Base        ] Start application main loop
+2016-03-17 21:17:43,630 - kivy - DEBUG - [Atlas       ] Load </usr/lib/python2.7/dist-packages/kivy/data/../data/images/defaulttheme.atlas>
+2016-03-17 21:17:43,630 - kivy - WARNING - stderr: Exception in thread Thread-1:
+2016-03-17 21:17:43,631 - kivy - DEBUG - [Atlas       ] Need to load 1 images
+2016-03-17 21:17:43,631 - kivy - WARNING - stderr: Traceback (most recent call last):
+2016-03-17 21:17:43,631 - kivy - DEBUG - [Atlas       ] Load </usr/lib/python2.7/dist-packages/kivy/data/../data/images/defaulttheme-0.png>
+2016-03-17 21:17:43,631 - kivy - WARNING - stderr:   File "/usr/lib/python2.7/threading.py", line 810, in __bootstrap_inner
+2016-03-17 21:17:43,631 - kivy - DEBUG - [ImageSDL2   ] Load </usr/lib/python2.7/dist-packages/kivy/data/../data/images/defaulttheme-0.png>
+2016-03-17 21:17:43,631 - kivy - WARNING - stderr:     self.run()
+2016-03-17 21:17:43,637 - kivy - WARNING - stderr:   File "/usr/lib/python2.7/threading.py", line 763, in run
+2016-03-17 21:17:43,637 - kivy - WARNING - stderr:     self.__target(*self.__args, **self.__kwargs)
+2016-03-17 21:17:43,637 - kivy - WARNING - stderr:   File "/usr/lib/python2.7/dist-packages/kivy/input/providers/mtdev.py", line 219, in _thread_run
+2016-03-17 21:17:43,637 - kivy - WARNING - stderr:     _device = Device(_fn)
+2016-03-17 21:17:43,637 - kivy - WARNING - stderr:   File "/usr/lib/python2.7/dist-packages/kivy/lib/mtdev.py", line 131, in __init__
+2016-03-17 21:17:43,637 - kivy - WARNING - stderr:     self._fd = os.open(filename, os.O_NONBLOCK | os.O_RDONLY)
+2016-03-17 21:17:43,637 - kivy - WARNING - stderr: OSError: [Errno 13] Permission denied: '/dev/input/event4'
+2016-03-17 21:17:43,637 - kivy - WARNING - stderr: 
+2016-03-17 21:17:43,734 - kivy - DEBUG - [Window      ] Resize window to (1200, 800)
+2016-03-17 21:17:45,513 - kivy - INFO - Registration Fetch Successful
+2016-03-17 21:17:45,513 - kivy - DEBUG - [{"cameras"  ] [{"ip": "10.0.0.5", "registered": "2016-03-18T03:26:57.023888", "hostname": "left"}, {"ip": "10.0.0.9", "registered": "2016-03-18T03:25:08.179847", "hostname": "right"}, {"ip": "10.0.0.2", "registered": "2016-03-18T03:19:05.309107", "hostname": "center"}]}
+2016-03-17 21:17:45,517 - kivy - DEBUG - [Getting camera info] http://10.0.0.5:8081/
+2016-03-17 21:17:45,531 - kivy - DEBUG - [{"uptime"   ] "0:51:58.840532", "name": "Argus3 Camserver", "copyright": "Glyphstone Productions (c)2016", "started": "2016-03-08T05:17:56.755984", "registered_as": "left", "slave_ver": "1.0.7", "version": "1.1.30", "registered_on": "2016-03-18T03:26:57.023888", "slave_ver_match": true, "slave_init": true, "registered": true}
+2016-03-17 21:17:45,531 - kivy - DEBUG - Camera left added
+2016-03-17 21:17:45,534 - kivy - DEBUG - [Getting camera info] http://10.0.0.9:8081/
+2016-03-17 21:17:45,548 - kivy - DEBUG - [{"uptime"   ] "0:52:37.519083", "name": "Argus3 Camserver", "copyright": "Glyphstone Productions (c)2016", "started": "2016-03-08T05:17:34.158571", "registered_as": "right", "slave_ver": "1.0.7", "version": "1.1.30", "registered_on": "2016-03-18T03:25:08.179847", "slave_ver_match": true, "slave_init": true, "registered": true}
+2016-03-17 21:17:45,548 - kivy - DEBUG - Camera right added
+2016-03-17 21:17:45,551 - kivy - DEBUG - [Getting camera info] http://10.0.0.2:8081/
+2016-03-17 21:17:45,565 - kivy - DEBUG - [{"uptime"   ] "0:58:40.396239", "name": "Argus3 Camserver", "copyright": "Glyphstone Productions (c)2016", "started": "2016-03-18T03:19:04.788099", "registered_as": "center", "slave_ver": "1.0.7", "version": "1.1.30", "registered_on": "2016-03-18T03:19:05.309107", "slave_ver_match": true, "slave_init": true, "registered": true}
+2016-03-17 21:17:45,565 - kivy - DEBUG - Camera center added
+2016-03-17 21:17:45,572 - kivy - DEBUG - [ImageSDL2   ] Load <images/button_normal.png>
+2016-03-17 21:17:45,573 - kivy - DEBUG - [ImageSDL2   ] Load <images/button_down.png>
+2016-03-17 21:17:49,724 - kivy - INFO - [Base        ] Leaving application in progress...
+2016-03-17 21:17:49,725 - kivy - INFO - ArgusMaster Stopping
+2016-03-17 21:17:49,753 - kivy - INFO - camera center inactive
+2016-03-17 21:17:49,784 - kivy - INFO - camera right inactive
+2016-03-17 21:17:49,814 - kivy - INFO - camera left inactive
+2016-03-22 20:46:59,057 - kivy - INFO - ArgusMaster starting
+2016-03-22 20:46:59,064 - kivy - DEBUG - [Base        ] Create provider from mouse
+2016-03-22 20:46:59,064 - kivy - DEBUG - [Base        ] Create provider from probesysfs
+2016-03-22 20:46:59,140 - kivy - DEBUG - [ProbeSysfs  ] using probesysfs!
+2016-03-22 20:46:59,189 - kivy - DEBUG - [ProbeSysfs  ] found device: ETPS/2 Elantech Touchpad at /dev/input/event4
+2016-03-22 20:46:59,189 - kivy - INFO - [ProbeSysfs  ] device match: /dev/input/event4
+2016-03-22 20:46:59,189 - kivy - INFO - [MTD         ] Read event from </dev/input/event4>
+2016-03-22 20:46:59,189 - kivy - INFO - [Base        ] Start application main loop
+2016-03-22 20:46:59,236 - kivy - DEBUG - [Atlas       ] Load </usr/lib/python2.7/dist-packages/kivy/data/../data/images/defaulttheme.atlas>
+2016-03-22 20:46:59,236 - kivy - DEBUG - [Atlas       ] Need to load 1 images
+2016-03-22 20:46:59,236 - kivy - DEBUG - [Atlas       ] Load </usr/lib/python2.7/dist-packages/kivy/data/../data/images/defaulttheme-0.png>
+2016-03-22 20:46:59,236 - kivy - DEBUG - [ImageSDL2   ] Load </usr/lib/python2.7/dist-packages/kivy/data/../data/images/defaulttheme-0.png>
+2016-03-22 20:46:59,291 - kivy - DEBUG - [Window      ] Resize window to (1200, 800)
+2016-03-22 20:46:59,297 - kivy - WARNING - stderr: Exception in thread Thread-1:
+2016-03-22 20:46:59,297 - kivy - WARNING - stderr: Traceback (most recent call last):
+2016-03-22 20:46:59,298 - kivy - WARNING - stderr:   File "/usr/lib/python2.7/threading.py", line 810, in __bootstrap_inner
+2016-03-22 20:46:59,298 - kivy - WARNING - stderr:     self.run()
+2016-03-22 20:46:59,298 - kivy - WARNING - stderr:   File "/usr/lib/python2.7/threading.py", line 763, in run
+2016-03-22 20:46:59,298 - kivy - WARNING - stderr:     self.__target(*self.__args, **self.__kwargs)
+2016-03-22 20:46:59,298 - kivy - WARNING - stderr:   File "/usr/lib/python2.7/dist-packages/kivy/input/providers/mtdev.py", line 219, in _thread_run
+2016-03-22 20:46:59,298 - kivy - WARNING - stderr:     _device = Device(_fn)
+2016-03-22 20:46:59,298 - kivy - WARNING - stderr:   File "/usr/lib/python2.7/dist-packages/kivy/lib/mtdev.py", line 131, in __init__
+2016-03-22 20:46:59,298 - kivy - WARNING - stderr:     self._fd = os.open(filename, os.O_NONBLOCK | os.O_RDONLY)
+2016-03-22 20:46:59,298 - kivy - WARNING - stderr: OSError: [Errno 13] Permission denied: '/dev/input/event4'
+2016-03-22 20:46:59,298 - kivy - WARNING - stderr: 
+2016-03-22 20:47:02,491 - kivy - INFO - Registration Fetch Successful
+2016-03-22 20:47:02,491 - kivy - DEBUG - [{"cameras"  ] [{"ip": "10.0.0.5", "registered": "2016-03-23T03:46:35.701464", "hostname": "left"}, {"ip": "10.0.0.9", "registered": "2016-03-23T03:46:35.715681", "hostname": "right"}, {"ip": "10.0.0.2", "registered": "2016-03-23T03:46:34.919682", "hostname": "center"}]}
+2016-03-22 20:47:02,510 - kivy - DEBUG - [Getting camera info] http://10.0.0.5:8081/
+2016-03-22 20:47:02,526 - kivy - DEBUG - [{"uptime"   ] "0:12:08.680629", "name": "Argus3 Camserver", "copyright": "Glyphstone Productions (c)2016", "started": "2016-03-08T07:17:34.118578", "registered_as": "left", "slave_ver": "1.0.7", "version": "1.1.30", "registered_on": "2016-03-23T03:46:35.701464", "slave_ver_match": true, "slave_init": true, "registered": true}
+2016-03-22 20:47:02,526 - kivy - DEBUG - Camera left added
+2016-03-22 20:47:02,529 - kivy - DEBUG - [Getting camera info] http://10.0.0.9:8081/
+2016-03-22 20:47:02,545 - kivy - DEBUG - [{"uptime"   ] "0:12:08.700852", "name": "Argus3 Camserver", "copyright": "Glyphstone Productions (c)2016", "started": "2016-03-08T07:17:34.197062", "registered_as": "right", "slave_ver": "1.0.7", "version": "1.1.30", "registered_on": "2016-03-23T03:46:35.715681", "slave_ver_match": true, "slave_init": true, "registered": true}
+2016-03-22 20:47:02,545 - kivy - DEBUG - Camera right added
+2016-03-22 20:47:02,548 - kivy - DEBUG - [Getting camera info] http://10.0.0.2:8081/
+2016-03-22 20:47:02,564 - kivy - DEBUG - [{"uptime"   ] "0:12:09.535996", "name": "Argus3 Camserver", "copyright": "Glyphstone Productions (c)2016", "started": "2016-03-23T03:34:52.996638", "registered_as": "center", "slave_ver": "1.0.7", "version": "1.1.31", "registered_on": "2016-03-23T03:46:34.919682", "slave_ver_match": true, "slave_init": true, "registered": true}
+2016-03-22 20:47:02,564 - kivy - DEBUG - Camera center added
+2016-03-22 20:47:02,571 - kivy - DEBUG - [ImageSDL2   ] Load <images/button_normal.png>
+2016-03-22 20:47:02,591 - kivy - DEBUG - [ImageSDL2   ] Load <images/button_down.png>
+2016-03-22 20:47:05,205 - kivy - DEBUG - [Activate callback] [10.0.0.9] {
+  "master": {
+    "status": "active"
+  }, 
+  "slave": {
+    "status": "active"
+  }
+} 
+2016-03-22 20:47:05,210 - kivy - DEBUG - [Activate callback] [10.0.0.5] {
+  "master": {
+    "status": "active"
+  }, 
+  "slave": {
+    "status": "active"
+  }
+} 
+2016-03-22 20:47:05,224 - kivy - DEBUG - [Activate callback] [10.0.0.2] {
+  "master": {
+    "status": "active"
+  }, 
+  "slave": {
+    "status": "active"
+  }
+} 
+2016-03-22 20:47:05,225 - kivy - INFO - camera center active
+2016-03-22 20:47:05,225 - kivy - INFO - camera right active
+2016-03-22 20:47:05,225 - kivy - INFO - camera left active
+2016-03-22 20:47:05,225 - kivy - DEBUG - [ImageSDL2   ] Load <images/active_button_normal.png>
+2016-03-22 20:47:05,254 - kivy - DEBUG - [ImageSDL2   ] Load <images/active_button_down.png>
+2016-03-22 20:47:07,470 - kivy - INFO - camera center inactive
+2016-03-22 20:47:07,596 - kivy - INFO - camera right inactive
+2016-03-22 20:47:07,732 - kivy - INFO - camera left inactive
+2016-03-22 20:47:28,271 - kivy - DEBUG - [Activate callback] [10.0.0.9] {
+  "master": {
+    "status": "active"
+  }, 
+  "slave": {
+    "status": "active"
+  }
+} 
+2016-03-22 20:47:28,275 - kivy - DEBUG - [Activate callback] [10.0.0.5] {
+  "master": {
+    "status": "active"
+  }, 
+  "slave": {
+    "status": "active"
+  }
+} 
+2016-03-22 20:47:28,285 - kivy - DEBUG - [Activate callback] [10.0.0.2] {
+  "master": {
+    "status": "active"
+  }, 
+  "slave": {
+    "status": "active"
+  }
+} 
+2016-03-22 20:47:28,286 - kivy - INFO - camera center active
+2016-03-22 20:47:28,287 - kivy - INFO - camera right active
+2016-03-22 20:47:28,287 - kivy - INFO - camera left active
+2016-03-22 20:47:36,418 - kivy - DEBUG - [Capture callback] [10.0.0.9] 
+2016-03-22 20:47:36,442 - kivy - DEBUG - [Capture callback] [10.0.0.5] 
+2016-03-22 20:47:36,530 - kivy - DEBUG - [Capture callback] [10.0.0.2] 
+2016-03-22 20:47:36,530 - kivy - DEBUG - Capture 10.0.0.2 complete code 200
+2016-03-22 20:47:36,531 - kivy - INFO - camera center captured
+2016-03-22 20:47:36,531 - kivy - DEBUG - Capture 10.0.0.9 complete code 200
+2016-03-22 20:47:36,531 - kivy - INFO - camera right captured
+2016-03-22 20:47:36,531 - kivy - DEBUG - Capture 10.0.0.5 complete code 200
+2016-03-22 20:47:36,531 - kivy - INFO - camera left captured
+2016-03-22 20:47:36,531 - kivy - DEBUG - [Getting file] http://10.0.0.2:8081/getfile?from=master&file=images/master.jpg
+2016-03-22 20:47:36,549 - kivy - DEBUG - Starting download of camimages/center/left.jpg
+2016-03-22 20:47:36,602 - kivy - DEBUG - Finished download!
+2016-03-22 20:47:36,602 - kivy - DEBUG - [Getting file] http://10.0.0.2:8081/getfile?from=master&file=images/slave.jpg
+2016-03-22 20:47:36,617 - kivy - DEBUG - Starting download of camimages/center/right.jpg
+2016-03-22 20:47:36,625 - kivy - DEBUG - Finished download!
+2016-03-22 20:47:36,625 - kivy - DEBUG - [Getting file] http://10.0.0.9:8081/getfile?from=master&file=images/master.jpg
+2016-03-22 20:47:36,642 - kivy - DEBUG - Starting download of camimages/right/left.jpg
+2016-03-22 20:47:36,701 - kivy - DEBUG - Finished download!
+2016-03-22 20:47:36,701 - kivy - DEBUG - [Getting file] http://10.0.0.9:8081/getfile?from=master&file=images/slave.jpg
+2016-03-22 20:47:36,716 - kivy - DEBUG - Starting download of camimages/right/right.jpg
+2016-03-22 20:47:36,725 - kivy - DEBUG - Finished download!
+2016-03-22 20:47:36,725 - kivy - DEBUG - [Getting file] http://10.0.0.5:8081/getfile?from=master&file=images/master.jpg
+2016-03-22 20:47:36,740 - kivy - DEBUG - Starting download of camimages/left/left.jpg
+2016-03-22 20:47:36,790 - kivy - DEBUG - Finished download!
+2016-03-22 20:47:36,790 - kivy - DEBUG - [Getting file] http://10.0.0.5:8081/getfile?from=master&file=images/slave.jpg
+2016-03-22 20:47:36,805 - kivy - DEBUG - Starting download of camimages/left/right.jpg
+2016-03-22 20:47:36,813 - kivy - DEBUG - Finished download!
+2016-03-22 20:47:36,814 - kivy - DEBUG - [ImageSDL2   ] Load <camimages/left/left.jpg>
+2016-03-22 20:47:36,829 - kivy - DEBUG - [ImageSDL2   ] Load <camimages/left/right.jpg>
+2016-03-22 20:47:36,838 - kivy - DEBUG - [ImageSDL2   ] Load <camimages/center/left.jpg>
+2016-03-22 20:47:36,853 - kivy - DEBUG - [ImageSDL2   ] Load <camimages/center/right.jpg>
+2016-03-22 20:47:36,863 - kivy - DEBUG - [ImageSDL2   ] Load <camimages/right/left.jpg>
+2016-03-22 20:47:36,878 - kivy - DEBUG - [ImageSDL2   ] Load <camimages/right/right.jpg>
+2016-03-22 20:47:47,387 - kivy - INFO - camera center inactive
+2016-03-22 20:47:47,514 - kivy - INFO - camera right inactive
+2016-03-22 20:47:47,652 - kivy - INFO - camera left inactive
+2016-03-22 20:47:50,685 - kivy - INFO - [Base        ] Leaving application in progress...
+2016-03-22 20:47:50,685 - kivy - INFO - ArgusMaster Stopping
+2016-03-22 20:47:50,717 - kivy - INFO - camera center inactive
+2016-03-22 20:47:50,746 - kivy - INFO - camera right inactive
+2016-03-22 20:47:50,775 - kivy - INFO - camera left inactive
