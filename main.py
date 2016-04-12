@@ -488,7 +488,7 @@ class CameraClient:
     def getfile(self, remoteFilename, localFilename, fromSlave = False ):
         fromwhere = "master" if fromSlave == False else "slave"
         try:
-            url = self.getServiceUrl() + "getfile?from={0}&file={1}".format(fromwhere, remoteFilename)
+            url = self.getServiceUrl() + "files/{0}/{1}".format(fromwhere, remoteFilename)
             Logger.debug("Getting file: {0}".format(url))
             resp = requests.get(url, stream = True)
             reply = True
